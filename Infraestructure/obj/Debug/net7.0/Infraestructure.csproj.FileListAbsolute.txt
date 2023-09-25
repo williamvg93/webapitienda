@@ -1,0 +1,15 @@
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\bin\Debug\net7.0\Core.dll
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\bin\Debug\net7.0\Core.pdb
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CopyComplete
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\APM02-066\Documents\Trowa\netCore\webapitienda\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
