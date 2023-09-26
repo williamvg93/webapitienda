@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace Core.Entities;
 
-public class Country : BaseEntity
+public class ProductBrand : BaseEntity
 {
     public string Name { get; set; }
-    public ICollection<Department> Departments { get; set; }
-
+    public ICollection<Product> Products { get; set; }
 }

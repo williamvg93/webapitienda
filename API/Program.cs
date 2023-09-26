@@ -12,7 +12,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<WebApiTiendaContext>(options => 
 {
-    string connectionString = builder.Configuration.GetConnectionString("NysqlConex");
+    string connectionString = builder.Configuration.GetConnectionString("MysqlConex");
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
 });
 
