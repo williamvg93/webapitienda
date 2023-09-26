@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj": {}
+    "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj": {
+    "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\APM02-066\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\obj\\",
+        "outputPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-066\\AppData\\Roaming\\NuGet\\NuGet.Config"

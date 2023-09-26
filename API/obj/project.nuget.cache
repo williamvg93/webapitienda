@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBB7KoERDisv9he3Zika2eTDORAGk8J8010bA1CWJ6IqCAuio1TCiwoFRe6rr1k7ooo9z9elszE1RgKLHAYI4Q==",
+  "dgSpecHash": "+dSIa4QMQ+c9JYaoUpuvKTvpnPk8knMALJeeYajs8AXMiEyufdP7ZJeIMVhyBXl35vCm5CUCePpLotU3R7ew7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APM02-066\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\APM02-066\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",

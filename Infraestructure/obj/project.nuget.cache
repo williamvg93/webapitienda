@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BogTB/V538rQCwFl05Ual3lcoHGDxfgs0x19FmB8JuNtPFohauFhjbD9IdNsNAKxfpVi/gt3bWdYlvp0pAUy7Q==",
+  "dgSpecHash": "f7foBxi/zDbXeGD+UZDJJyWunRskCYRS5s0uwqlSNpH6Np0+S3Kfd0PJIhA6dN7QAMsQcAxCbGaLFwU1DT/JNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\webapitienda\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APM02-066\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\APM02-066\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
